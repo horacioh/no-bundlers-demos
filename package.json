@@ -6,7 +6,8 @@
   "private": "true",
   "scripts": {
     "app": "yarn workspace app",
-    "ui": "yarn workspace ui"
+    "ui": "yarn workspace ui",
+    "vite:react": "yarn workspace vite-react"
   },
   "workspaces": [
     "./frontend/*"
