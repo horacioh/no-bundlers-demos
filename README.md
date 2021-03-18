@@ -4,6 +4,7 @@ Tools used:
 
 - yarn workspaces
 - [Snowpack](https://snowpack.dev)
+- [Vitejs](https://vitejs.dev/)
 - [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Stitches](https://stitches.dev/)
