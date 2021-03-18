@@ -9,13 +9,14 @@ Tools used:
 - [Stitches](https://stitches.dev/)
 - [Storybook](https://storybook.js.org/)
 
-## Run de demo
+## Run the demo
 
 ```bash
 git clone <repo>
 yarn # or `yarn install`
 yarn ui build # build the ui library
 yarn app dev # run the app in dev mode
+yarn ui storybook # run storybook
 ```
 
 ## Important Notes
