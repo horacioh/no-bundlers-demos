@@ -36,7 +36,7 @@ yarn ui storybook # run storybook
 
 ## Acknowledgements
 
-- Kudos to [Kevin](https://twitter.com/elkevinwolf) who is working with me in a project with this setup and fought with me to fix all the issues. thanks bro!!
-- also thanks to the Snowpack and Stitches community, the support received from those were very important for us!
+- Kudos to [Kevin](https://twitter.com/elkevinwolf) who is working together in a project using this setup and fix all the issues with me. thanks bro!!
+- also thanks to the [Snowpack](https://discord.gg/snowpack) and [Stitches](https://discord.com/invite/H4eG3Mk) community, the support received from those were very important for us!
 
 Any questions please reach out in [twitter!](https://twitter.com/hhg2288)
