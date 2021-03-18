@@ -1,4 +1,4 @@
-# Snowpack + Typescript UI Library demo
+# Monorepo demos (Snowpack/Vite)
 
 Tools used:
 
@@ -14,9 +14,30 @@ Tools used:
 ```bash
 git clone <repo>
 yarn # or `yarn install`
+```
+
+### Build the UI Library
+
+```bash
 yarn ui build # build the ui library
+```
+
+### Run the Snowpack demo
+
+```bash
 yarn app dev # run the app in dev mode
-yarn ui storybook # run storybook
+```
+
+### Run the UI storybook
+
+```bash
+yarn ui storybook # run the app in dev mode
+```
+
+### Run the Vite demo
+
+```bash
+yarn vite:react dev
 ```
 
 ## Important Notes
