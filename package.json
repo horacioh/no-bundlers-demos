@@ -1,0 +1,14 @@
+{
+  "name": "snowpack-and-ui-lib-demo",
+  "version": "0.1.0",
+  "author": "Horacio Herrera",
+  "license": "MIT",
+  "private": "true",
+  "scripts": {
+    "app": "yarn workspace app",
+    "ui": "yarn workspace ui"
+  },
+  "workspaces": [
+    "./frontend/*"
+  ]
+}
