@@ -3,8 +3,11 @@ import logo from "./logo.svg"
 import "./App.css"
 import { Theme } from "ui/theme"
 import { Box } from "ui/box"
+import docs from "@mintter/api/documents/v1alpha/documents_grpc_web_pb"
 
 function App() {
+  console.log(docs.DraftsClient)
+
   const [count, setCount] = useState(0)
 
   return (

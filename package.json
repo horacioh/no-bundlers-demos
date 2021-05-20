@@ -11,6 +11,7 @@
     "vite:preact": "yarn workspace vite-preact"
   },
   "workspaces": [
-    "./frontend/*"
+    "./frontend/*",
+    "./api/js"
   ]
 }
